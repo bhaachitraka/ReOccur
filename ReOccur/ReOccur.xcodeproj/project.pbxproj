@@ -15,6 +15,7 @@
 		171A7BBC1D8F210E00896858 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 171A7BBA1D8F210E00896858 /* LaunchScreen.storyboard */; };
 		171A7BC71D8F210E00896858 /* ReOccurTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171A7BC61D8F210E00896858 /* ReOccurTests.swift */; };
 		171A7BD21D8F210E00896858 /* ReOccurUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171A7BD11D8F210E00896858 /* ReOccurUITests.swift */; };
+		171A7BE01D8F487D00896858 /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171A7BDF1D8F487D00896858 /* CategoryTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		171A7BCD1D8F210E00896858 /* ReOccurUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReOccurUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		171A7BD11D8F210E00896858 /* ReOccurUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReOccurUITests.swift; sourceTree = "<group>"; };
 		171A7BD31D8F210E00896858 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		171A7BDF1D8F487D00896858 /* CategoryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				171A7BAE1D8F210E00896858 /* AppDelegate.swift */,
 				171A7BB01D8F210E00896858 /* ViewController.swift */,
 				171A7BB21D8F210E00896858 /* Main.storyboard */,
+				171A7BDF1D8F487D00896858 /* CategoryTableViewController.swift */,
 				171A7BB81D8F210E00896858 /* Assets.xcassets */,
 				171A7BBA1D8F210E00896858 /* LaunchScreen.storyboard */,
 				171A7BBD1D8F210E00896858 /* Info.plist */,
@@ -268,6 +271,7 @@
 				171A7BB11D8F210E00896858 /* ViewController.swift in Sources */,
 				171A7BB71D8F210E00896858 /* ReOccur.xcdatamodeld in Sources */,
 				171A7BAF1D8F210E00896858 /* AppDelegate.swift in Sources */,
+				171A7BE01D8F487D00896858 /* CategoryTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
